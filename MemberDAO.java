@@ -8,5 +8,4 @@ class MemberDAO
 		System.out.println("수정하였습니다.");
 		return 1;
 	}
-
 }
